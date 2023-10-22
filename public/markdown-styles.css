@@ -1,0 +1,31 @@
+/* markdown-styles.css */
+
+h1 {
+    font-size: 2em;
+    margin-bottom: 0.5em;
+  }
+  
+  h2 {
+    font-size: 1.5em;
+    margin-bottom: 0.5em;
+  }
+  
+  p {
+    margin-bottom: 1em;
+  }
+  
+  code {
+    background-color: #f2f2f2;
+    padding: 0.2em 0.4em;
+    margin: 0;
+    font-size: 85%;
+    border-radius: 3px;
+  }
+  
+  blockquote {
+    margin: 0;
+    padding-left: 1em;
+    border-left: 0.25em solid #dfe2e5;
+    color: #6a737d;
+  }
+  
